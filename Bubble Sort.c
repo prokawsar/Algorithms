@@ -1,4 +1,6 @@
-/* Bubble Sort */
+/* Bubble Sort 
+Self Implementation 
+*/
 
 #include <stdio.h>
 
