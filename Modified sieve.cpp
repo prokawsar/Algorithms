@@ -1,4 +1,4 @@
-/* Modified seive */
+/* Modified sieve */
 
 long prime[size];
 void seive(){
