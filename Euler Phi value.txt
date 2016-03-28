@@ -1,0 +1,5 @@
+
+/* Finding Euler Phi value */
+
+Equation one:  ( n * (p - 1) ) / p ;
+Equation two:  n * (1 - (1/p)) ;
